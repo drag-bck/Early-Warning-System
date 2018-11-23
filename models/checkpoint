@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\Aman Kumar\\PycharmProjects\\Early Warning System\\models\\cnn.model"
+all_model_checkpoint_paths: "C:\\Users\\Aman Kumar\\PycharmProjects\\Early Warning System\\models\\cnn.model"
